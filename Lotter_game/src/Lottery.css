@@ -1,6 +1,7 @@
-.lottery{
-    /* border: 1px solid black; */
+/* .lottery{
+    border: 1px solid black;
     display: flex;
+    flex-direction: row;
     justify-content: center;
     gap: 6px;
 }
@@ -8,4 +9,4 @@ span{
     border-radius: 10px;
     border: 2px solid red;
     padding: 5px;
-}
+} */
